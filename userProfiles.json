@@ -1,0 +1,23 @@
+{
+    "profiles": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "dateOfBirth": "1990-01-01",
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zipCode": "12345"
+        },
+        "userPreferences": {
+          "theme": "dark",
+          "language": "English",
+          "notifications": true,
+          "subscription": true
+        }
+      }
+
+    ]
+  }
